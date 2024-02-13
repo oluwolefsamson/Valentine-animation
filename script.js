@@ -42,6 +42,7 @@ t3
 
 yes.addEventListener('click', () => {
     t2.play();
+    
 });
 
 no.addEventListener('click', () => {

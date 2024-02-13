@@ -125,9 +125,11 @@ span{
 
 .creator{
     position: fixed;
-    bottom: 5px;
-    right: 10px;
+    bottom: 15px;
+    right: 15px;
 }
+
+
 
 @media only screen and (max-width: 800px) {
     .heart{
